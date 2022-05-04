@@ -1,2 +1,2 @@
-![image] (src/kuva1.png)
-![image] (osa0/kuva2.png)
+![](src/kuva1.png)
+![](osa0/kuva2.png)
