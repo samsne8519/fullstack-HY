@@ -1,1 +1,1 @@
-![image](src/kuva1.png)
+![image](fullstck-HY/src/kuva1.png)
